@@ -27,4 +27,4 @@
 </div>
 
   ## Mi Actividad
-  ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/3559?logoColor=white%26project=%26recentMS=0%26showProject=false)
+  ![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/3559?logoColor=white%26project=%26recentMS=0%26showProject=false)
