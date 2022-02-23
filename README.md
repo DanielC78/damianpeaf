@@ -1,4 +1,4 @@
-### ¡Hola!, soy Damian Peña, estudiante de Ingeniería en Ciencias y Sistemas en la Universidad San Carlos de Guatemala. 🐱‍🚀
+### ¡Hola!, soy Dámian Peña, estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. 🐱‍🚀
 
 <div align="center">
   <a href="https://github.com/damianpeaf">
@@ -14,6 +14,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Rafa-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
@@ -24,3 +25,6 @@
  <a href="https://www.linkedin.com/in/damian-ignacio-pe%C3%B1a-afre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://damianpeaf.github.io/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a> 
 </div>
+
+  ## Mi Actividad
+  ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/3559?logoColor=white%26project=%26recentMS=0%26showProject=false)
