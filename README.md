@@ -27,4 +27,10 @@
 </div>
 
   ## Mi Actividad
-  ![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/3559?logoColor=white%26project=%26recentMS=0%26showProject=false)
+<p align="center">
+    <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/3559?logoColor=white%26project=%26recentMS=0%26showProject=false">
+</p>
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=damianpeaf&cover_image=true&theme=novatorem&bar_color=b14eae&bar_color_cover=true" alt="No estoy escuchando musica :(">
+</p>
