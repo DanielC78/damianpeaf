@@ -1,4 +1,4 @@
-### ¡Hola!, soy Dámian Peña, estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. 🐱‍🚀
+### ¡Hola!, soy Damián Peña, estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. 🐱‍🚀
 
 <div align="center">
   <a href="https://github.com/damianpeaf">
