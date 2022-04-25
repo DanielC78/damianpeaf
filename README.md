@@ -16,6 +16,8 @@
   <img align="center" alt="Rafa-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Rafa-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Rafa-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
 </div>
 
   
@@ -31,6 +33,6 @@
     <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/3559?logoColor=white%26project=%26recentMS=0%26showProject=false">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=damianpeaf&cover_image=true&theme=novatorem&bar_color=b14eae&bar_color_cover=true" alt="No estoy escuchando musica :(">
-</p>
+</p> -->
